@@ -1,0 +1,9 @@
+{
+  "categoryName": "Книги",
+  "items": [
+    { "id": 201, "name": "JavaScript для професіоналів", "shortname": "JS-Book", "description": "Lorem ipsum dolor sit amet, детальний посібник з веб-розробки.", "price": "650 грн" },
+    { "id": 202, "name": "Алгоритми і структури даних", "shortname": "Algo-Book", "description": "Lorem ipsum dolor sit amet, базові алгоритми програмування.", "price": "800 грн" },
+    { "id": 203, "name": "Чистий код", "shortname": "Clean-Code", "description": "Lorem ipsum dolor sit amet, практики написання якісного коду.", "price": "720 грн" },
+    { "id": 204, "name": "Комп'ютерні мережі", "shortname": "Networks", "description": "Lorem ipsum dolor sit amet, архітектура та протоколи мереж.", "price": "900 грн" }
+  ]
+}

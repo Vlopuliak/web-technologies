@@ -1,0 +1,9 @@
+{
+  "categoryName": "Одяг",
+  "items": [
+    { "id": 301, "name": "Худі оверсайз", "shortname": "Hoodie", "description": "Lorem ipsum dolor sit amet, тепле бавовняне худі.", "price": "1400 грн" },
+    { "id": 302, "name": "Футболка базова", "shortname": "T-Shirt", "description": "Lorem ipsum dolor sit amet, класична чорна футболка.", "price": "500 грн" },
+    { "id": 303, "name": "Джинси прямі", "shortname": "Jeans", "description": "Lorem ipsum dolor sit amet, зручні джинси з щільного деніму.", "price": "1900 грн" },
+    { "id": 304, "name": "Кросівки бігові", "shortname": "Sneakers", "description": "Lorem ipsum dolor sit amet, легке спортивне взуття.", "price": "2800 грн" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "categoryName": "Електроніка",
+  "items": [
+    { "id": 101, "name": "Ноутбук Pro 15", "shortname": "Laptop", "description": "Lorem ipsum dolor sit amet, потужний ноутбук для роботи.", "price": "35000 грн" },
+    { "id": 102, "name": "Смартфон X10", "shortname": "Phone", "description": "Lorem ipsum dolor sit amet, сучасний смартфон з OLED екраном.", "price": "18000 грн" },
+    { "id": 103, "name": "Навушники Air", "shortname": "Headphones", "description": "Lorem ipsum dolor sit amet, бездротові навушники з шумозаглушенням.", "price": "4500 грн" },
+    { "id": 104, "name": "Ігрова миша", "shortname": "Mouse", "description": "Lorem ipsum dolor sit amet, оптичний сенсор 1000 Hz.", "price": "1500 грн" }
+  ]
+}
