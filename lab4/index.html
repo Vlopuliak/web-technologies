@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pixel Hunt Game</title>
+    <link rel="shortcut icon" href="#">
+    <style>
+        body {
+            font-family: "Times New Roman", serif;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        #game-area {
+            display: none;
+        }
+        #target {
+            position: absolute;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div id="menu">
+        <h1>Pixel Hunt</h1>
+        <label for="difficulty">Choose difficulty:</label>
+        <select id="difficulty">
+            <option value="">--Please choose an option--</option>
+            <option value="lazy">Lazy</option>
+            <option value="normal">Normal</option>
+            <option value="hard">Catch me if you can</option>
+        </select>
+
+        <label for="color">Choose color:</label>
+        <select id="color">
+            <option value="">--Please choose an option--</option>
+            <option value="red">Red</option>
+            <option value="green">Green</option>
+            <option value="blue">Blue</option>
+        </select>
+
+        <button id="start-btn">Start</button>
+    </div>
+
+    <div id="game-area">
+        <p>score: <span id="score">0</span></p>
+        <p>time left for click: <span id="timer">0</span></p>
+        <div id="target"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
